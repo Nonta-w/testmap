@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 28
+        "constituency": 28
       },
       "geometry": {
         "coordinates": [
@@ -90,7 +90,7 @@
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 17
+        "constituency": 17
       },
       "geometry": {
         "coordinates": [
@@ -144,7 +144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 13
+        "constituency": 13
       },
       "geometry": {
         "coordinates": [
@@ -222,7 +222,7 @@
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 32
+        "constituency": 32
       },
       "geometry": {
         "coordinates": [
@@ -343,12 +343,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 4
+      "id": 3
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 11
+        "constituency": 11
       },
       "geometry": {
         "coordinates": [
@@ -429,12 +429,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 7
+      "id": 4
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 12
+        "constituency": 12
       },
       "geometry": {
         "coordinates": [
@@ -519,7 +519,7 @@
         ],
         "type": "Polygon"
       },
-      "id": 15
+      "id": 5
     },
     {
       "type": "Feature",
@@ -585,12 +585,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 19
+      "id": 6
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 10
+        "constituency": 10
       },
       "geometry": {
         "coordinates": [
@@ -631,12 +631,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 19
+      "id": 7
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 6
+        "constituency": 6
       },
       "geometry": {
         "coordinates": [
@@ -693,12 +693,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 19
+      "id": 8
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 2
+        "constituency": 2
       },
       "geometry": {
         "coordinates": [
@@ -816,7 +816,7 @@
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 25
+        "constituency": 25
       },
       "geometry": {
         "coordinates": [
@@ -985,12 +985,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 39
+      "id": 10
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 14
+        "constituency": 14
       },
       "geometry": {
         "coordinates": [
@@ -1119,12 +1119,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 19
+      "id": 11
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 16
+        "constituency": 16
       },
       "geometry": {
         "coordinates": [
@@ -1205,12 +1205,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 16
+      "id": 12
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 19
+        "constituency": 19
       },
       "geometry": {
         "coordinates": [
@@ -1288,7 +1288,7 @@
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 20
+        "constituency": 20
       },
       "geometry": {
         "coordinates": [
@@ -1350,7 +1350,7 @@
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 19
+        "constituency": 18
       },
       "geometry": {
         "coordinates": [
@@ -1424,7 +1424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 21
+        "constituency": 21
       },
       "geometry": {
         "coordinates": [
@@ -1477,12 +1477,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 22
+      "id": 16
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 23
+        "constituency": 23
       },
       "geometry": {
         "coordinates": [
@@ -1535,12 +1535,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 28
+      "id": 17
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 22
+        "constituency": 22
       },
       "geometry": {
         "coordinates": [
@@ -1621,12 +1621,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 25
+      "id": 18
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 4
+        "constituency": 4
       },
       "geometry": {
         "coordinates": [
@@ -1695,12 +1695,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 29
+      "id": 19
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 15
+        "constituency": 15
       },
       "geometry": {
         "coordinates": [
@@ -1769,12 +1769,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 25
+      "id": 20
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 5
+        "constituency": 5
       },
       "geometry": {
         "coordinates": [
@@ -1859,12 +1859,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 33
+      "id": 21
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 7
+        "constituency": 7
       },
       "geometry": {
         "coordinates": [
@@ -1921,12 +1921,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 32
+      "id": 22
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 8
+        "constituency": 8
       },
       "geometry": {
         "coordinates": [
@@ -2007,12 +2007,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 37
+      "id": 23
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 33
+        "constituency": 33
       },
       "geometry": {
         "coordinates": [
@@ -2130,7 +2130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 3
+        "constituency": 3
       },
       "geometry": {
         "coordinates": [
@@ -2283,12 +2283,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 44
+      "id": 25
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 1
+        "constituency": 1
       },
       "geometry": {
         "coordinates": [
@@ -2370,7 +2370,7 @@
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 24
+        "constituency": 24
       },
       "geometry": {
         "coordinates": [
@@ -2484,7 +2484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 26
+        "constituency": 26
       },
       "geometry": {
         "coordinates": [
@@ -2629,12 +2629,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 55
+      "id": 28
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 27
+        "constituency": 27
       },
       "geometry": {
         "coordinates": [
@@ -2792,7 +2792,7 @@
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 31
+        "constituency": 31
       },
       "geometry": {
         "coordinates": [
@@ -2929,12 +2929,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 52
+      "id": 30
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 30
+        "constituency": 30
       },
       "geometry": {
         "coordinates": [
@@ -2987,12 +2987,12 @@
         ],
         "type": "Polygon"
       },
-      "id": 55
+      "id": 31
     },
     {
       "type": "Feature",
       "properties": {
-        "เขตเลือกตั้ง": 29
+        "constituency": 29
       },
       "geometry": {
         "coordinates": [
@@ -3037,7 +3037,7 @@
         ],
         "type": "Polygon"
       },
-      "id": 55
+      "id": 32
     }
   ]
 }
