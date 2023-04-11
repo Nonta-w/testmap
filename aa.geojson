@@ -85,7 +85,7 @@
         ],
         "type": "Polygon"
       },
-      "id": 1
+      "id": 0
     },
     {
       "type": "Feature",
@@ -811,7 +811,7 @@
         ],
         "type": "Polygon"
       },
-      "id": 36
+      "id": 9
     },
     {
       "type": "Feature",
@@ -1345,11 +1345,13 @@
         ],
         "type": "Polygon"
       },
-      "id": 15
+      "id": 14
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "เขตเลือกตั้ง": 19
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1416,7 +1418,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 15
     },
     {
       "type": "Feature",
@@ -2122,7 +2125,7 @@
         ],
         "type": "Polygon"
       },
-      "id": 52
+      "id": 24
     },
     {
       "type": "Feature",
@@ -2362,7 +2365,7 @@
         ],
         "type": "Polygon"
       },
-      "id": 46
+      "id": 26
     },
     {
       "type": "Feature",
@@ -2476,7 +2479,7 @@
         ],
         "type": "Polygon"
       },
-      "id": 57
+      "id": 27
     },
     {
       "type": "Feature",
@@ -2784,7 +2787,7 @@
         ],
         "type": "Polygon"
       },
-      "id": 55
+      "id": 29
     },
     {
       "type": "Feature",
